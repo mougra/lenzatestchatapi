@@ -1,0 +1,55 @@
+.message__container {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 8px;
+  width: 100%;
+
+  // & + .message__you {
+  //   justify-content: right;
+  // }
+  .message__content {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: fit-content;
+    max-width: 55%;
+
+    .message__content__name {
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 15px;
+      line-height: 20px;
+      color: #201f1e;
+    }
+
+    .message__text {
+      padding: 8px 12px;
+      background: #f3f3f3;
+      border-radius: 4px;
+      width: fit-content;
+    }
+
+    .time {
+      padding-left: 12px;
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 9px;
+      color: #605e5c;
+      float: right;
+      height: 20px;
+
+      display: flex;
+      align-items: end;
+
+      .time--viewed__svg {
+        padding-left: 2px;
+      }
+    }
+  }
+}
+.message__container.message__you {
+  justify-content: right;
+}

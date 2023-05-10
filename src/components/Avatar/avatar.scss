@@ -1,0 +1,29 @@
+.component-avatar {
+  display: flex;
+  background: #c4c4c4;
+  border-radius: 4px;
+
+  &--sm {
+    width: 32px;
+    height: 32px;
+  }
+
+  &--md {
+    width: 48px;
+    height: 48px;
+  }
+
+  .component-avatar__img {
+    &--sm {
+      width: 32px;
+      height: 32px;
+      border-radius: 4px;
+    }
+
+    &--md {
+      width: 48px;
+      height: 48px;
+      border-radius: 4px;
+    }
+  }
+}
