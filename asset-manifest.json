@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/lenzatestchatapi/static/css/main.ff6499de.css",
+    "main.js": "/lenzatestchatapi/static/js/main.d2eed5cb.js",
+    "static/js/787.e1862b6c.chunk.js": "/lenzatestchatapi/static/js/787.e1862b6c.chunk.js",
+    "static/media/Chat.svg": "/lenzatestchatapi/static/media/Chat.3cdb5a09c2729e160001f4cb3fad3716.svg",
+    "static/media/attach.svg": "/lenzatestchatapi/static/media/attach.c58a7b318b3bedbb1d3659d90173cda7.svg",
+    "static/media/Vector.svg": "/lenzatestchatapi/static/media/Vector.cae923b5a327c3f72fe2bc6137760969.svg",
+    "index.html": "/lenzatestchatapi/index.html",
+    "static/media/telegram.svg": "/lenzatestchatapi/static/media/telegram.90ae90a80b825c4cb5eac3ade8bc5f3b.svg",
+    "main.ff6499de.css.map": "/lenzatestchatapi/static/css/main.ff6499de.css.map",
+    "main.d2eed5cb.js.map": "/lenzatestchatapi/static/js/main.d2eed5cb.js.map",
+    "787.e1862b6c.chunk.js.map": "/lenzatestchatapi/static/js/787.e1862b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff6499de.css",
+    "static/js/main.d2eed5cb.js"
+  ]
+}
